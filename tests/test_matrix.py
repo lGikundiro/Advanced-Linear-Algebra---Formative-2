@@ -1,4 +1,4 @@
-## Creating Tests for the matrix module file
+## Creating Tests for the matrix module
 
 ### tests/test_matrix.py
 import unittest
