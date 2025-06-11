@@ -6,8 +6,8 @@ from .matrix import Matrix
 from .operations import multiply_matrices, add_matrices, subtract_matrices
 
 __version__ = "0.1.0"
-__authors__ = "Terry Manzi, Liliane Gikundiro, Fidele Ndihokubwayo, and Anissa Tagawende"
-__email__ = "m.terry@alustudent.com, l.gikundiro@alustudent.com, f.ndihokubw1@alustudent.com, a.tagawende@alustudent.com"
+__author__ = "Your Name"
+__email__ = "your.email@example.com"
 
 __all__ = [
     "Matrix",
